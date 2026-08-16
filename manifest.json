@@ -1,0 +1,22 @@
+{
+  "name": "عالم الكناري وهجينه",
+  "short_name": "الكناري",
+  "description": "دليلك الشامل لتربية، تهجين، وتدريب الطيور المغردة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f9",
+  "theme_color": "#0ba5df",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

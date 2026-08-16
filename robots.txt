@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://canary-birds.haythamzeidan.workers.dev/sitemap.xml
