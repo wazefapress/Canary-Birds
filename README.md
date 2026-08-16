@@ -1,7 +1,7 @@
 # 🐤 عالم الكناري وهجينه (Canary Birds App)
 
-![GitHub license](https://img.shields.io/github/license/haythampc/canary-birds-app?color=0ba5df)
-![GitHub stars](https://img.shields.io/github/stars/haythampc/canary-birds-app?color=0ba5df)
+![GitHub license](https://img.shields.io/github/license/wazefapress/canary-birds?color=0ba5df)
+![GitHub stars](https://img.shields.io/github/stars/wazefapress/canary-birds?color=0ba5df)
 ![PWA Ready](https://img.shields.io/badge/PWA-Ready-success?color=0ba5df)
 
 تطبيق ويب تقدمي (PWA) وموسوعة تفاعلية شاملة مخصصة لمربي وهواة الطيور المغردة (الكناري، الحسون، والبندوق). يهدف التطبيق إلى تقديم دليل علمي وعملي مبسط لخطوات التربية، التهجين، التغذية، ونظام الإضاءة والتدريب.
@@ -48,3 +48,6 @@ JavaScript (ES6+ / PWA / Service Workers)
 FontAwesome 4.7.0 (للأيقونات)
 
 Schema.org / JSON-LD (للبيانات المنظمة)
+
+رابط التطبيق 
+https://wazefapress.github.io/Canary-Birds/
