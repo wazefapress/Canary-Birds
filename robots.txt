@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://canary-birds.haythamzeidan.workers.dev/sitemap.xml
+Sitemap: https://wazefapress.github.io/Canary-Birds/sitemap.xml
